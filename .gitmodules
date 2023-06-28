@@ -1,0 +1,9 @@
+[submodule "graph-service"]
+	path = graph-service
+	url = https://github.com/Hasnain-Haider/graph-service
+[submodule "graph"]
+	path = graph
+	url = https://github.com/Hasnain-Haider/graph
+[submodule "graph-react"]
+	path = graph-react
+	url = https://github.com/Hasnain-Haider/graph-react
